@@ -1,4 +1,4 @@
-# [:] Example Go project using Trash. - scan
+# [:] Example Go project using Trash. - scan 2
 
 An example Go project using Trash package manager to demonstrate [SourceClear](https://www.sourceclear.com) scans.
 
